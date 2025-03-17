@@ -1,0 +1,4 @@
+EmpId;Name;PhoneNo;Email;About;Picture;Location;Role;Department;Availability
+43;Vishal Kumar;7722033317;vishalkumar@mindsetconsulting.com;I am senior developer at Mindset Consulting. I have 8 years of experience in SAP Frontend development. I worked on various projects of UI5/Fiori in my career.;pic1;India;Senior Developer;SAP;Yes
+42;Tushar Jain;8600382394;tushar.jain@minsetconsulting.com;about2;pic2;India;Senior Developer;SAP;No
+41;Test;973943943;test@minsetconsulting.com;about3;pic32;US;Senior Developer;SAP;No
